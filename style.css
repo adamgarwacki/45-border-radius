@@ -1,0 +1,22 @@
+div {
+    width: 300px;
+    height: 300px;
+}
+
+div > div {
+    height: 18px;
+    text-align: center;
+    padding-top: 141px;
+}
+
+#element-1 {
+    border: solid;
+    border-width: 5px;
+    border-radius: 50%;
+}
+
+#element-2 {
+    border: solid;
+    border-width: 5px;
+    border-top-left-radius: 20%;
+}
